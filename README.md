@@ -33,8 +33,15 @@ This is a sample application to fetch newsItems from newsapi.org source and disp
 * Need to move all the dependency version to ext in build.gradle ( few has been done for demonstration)
 
 
-# Screenshots
- To be added
+# Screenshots 
+ 
+![home_dark](https://user-images.githubusercontent.com/4577059/184539438-08cc69d9-cb32-4fad-b184-9c9aa1b6ef25.png)
+![news_detail_dark](https://user-images.githubusercontent.com/4577059/184539450-50441632-06a7-4bf2-9b71-ab1e1faec30e.png)
+![sources_dark](https://user-images.githubusercontent.com/4577059/184539464-52c049ee-6a43-4155-9479-cff6c954f14c.png)
+
+![home](https://user-images.githubusercontent.com/4577059/184539471-af321c2c-3bcf-4f27-95a7-eb438ab0a94b.png)
+![news_detail](https://user-images.githubusercontent.com/4577059/184539477-43b46411-edc7-450a-ab05-80387d663451.png)
+![sources](https://user-images.githubusercontent.com/4577059/184539486-e740c3a1-96dc-48a1-916d-e7f06de00a9d.png)
 
 #APK
 Also the apk has been uploaded in the root folder for quick view of app without compiling.
