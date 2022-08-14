@@ -1,0 +1,245 @@
+{
+  "status": "ok",
+  "totalResults": 36,
+  "articles": [{
+    "source": {
+      "id": "google-news",
+      "name": "Google News"
+    },
+    "author": null,
+    "title": "‘Haven’t stopped crying’: Shattered stars pay tribute to Green - Courier Mail",
+    "description": null,
+    "url": "https://news.google.com/__i/rss/rd/articles/CBMinAFodHRwczovL3d3dy5jb3VyaWVybWFpbC5jb20uYXUvc3BvcnQvbnJsL3BhdWwtZ3JlZW4tZGVhZC1sZWdlbmRhcnktcnVnYnktbGVhZ3VlLXBsYXllci1hbmQtbnJsLWNvYWNoLXBhc3Nlcy1hd2F5L25ld3Mtc3RvcnkvMzhjZTc0ZjA4Yzg2YmNiNWQ0NGU3YTg5Y2RmM2Q4ZDbSAaABaHR0cHM6Ly93d3cuY291cmllcm1haWwuY29tLmF1L3Nwb3J0L25ybC9wYXVsLWdyZWVuLWRlYWQtbGVnZW5kYXJ5LXJ1Z2J5LWxlYWd1ZS1wbGF5ZXItYW5kLW5ybC1jb2FjaC1wYXNzZXMtYXdheS9uZXdzLXN0b3J5LzM4Y2U3NGYwOGM4NmJjYjVkNDRlN2E4OWNkZjNkOGQ2P2FtcA?oc=5",
+    "urlToImage": null,
+    "publishedAt": "2022-08-13T03:33:54Z",
+    "content": null
+  }, {
+    "source": {
+      "id": null,
+      "name": "9News"
+    },
+    "author": "Savannah Meacham",
+    "title": "Australia's attorneys-general to ramp up action on coercive control - 9News",
+    "description": "<p>Coercive control refers to &quot;the pattern of abusive behaviour designed to create power and dominance over another person or persons&quot;.</p>",
+    "url": "https://www.9news.com.au/national/attorney-generals-agree-to-create-national-principles-to-address-coercive-control/f6452d11-9f79-4ddd-8f11-bfbf95597da9",
+    "urlToImage": "https://imageresizer.static9.net.au/S8tvPvQ4P_8MJvgnB2T9OZWgO2I=/1200x628/smart/https%3A%2F%2Fprod.static9.net.au%2Ffs%2F2ad37ce5-8539-4bcf-94e8-ba03e3ae2778",
+    "publishedAt": "2022-08-13T01:58:27Z",
+    "content": null
+  }, {
+    "source": {
+      "id": "news-com-au",
+      "name": "News.com.au"
+    },
+    "author": "Lexie Cartwright",
+    "title": "Why the GoT finale was actually perfect - news.com.au",
+    "description": "<p>OPINION</p>",
+    "url": "https://www.news.com.au/entertainment/tv/streaming/why-game-of-thrones-final-season-made-perfect-sense/news-story/8dd66e04f5e051826ff40586927701b3",
+    "urlToImage": "https://content.api.news/v3/images/bin/aed8598b91f593bcddb1464f9696fe49",
+    "publishedAt": "2022-08-13T01:24:16Z",
+    "content": "OPINION\r\nAfter a decade of extreme emotional investment, Game of Thrones’ eighth and final season in 2019 really failed to impress its legion of fans.\r\nWhile there were a whole host of criticisms, fr… [+7272 chars]"
+  }, {
+    "source": {
+      "id": "news-com-au",
+      "name": "News.com.au"
+    },
+    "author": null,
+    "title": "Reclusive Aussie movie star’s rare outing - news.com.au",
+    "description": "<p>Paul Hogan has been spotted out and about in LA, more than a year after complaining he barely leaves his beachfront mansion.</p>",
+    "url": "https://www.news.com.au/entertainment/celebrity-life/celebrity-photos/paul-hogan-steps-out-for-rare-outing-in-los-angeles/news-story/a171fa932ae1858b3380cc8c3a61e949",
+    "urlToImage": "https://content.api.news/v3/images/bin/0188ae45dee1f7a3a8296a857055f1e7",
+    "publishedAt": "2022-08-13T01:19:53Z",
+    "content": "Paul Hogan has been spotted out and about in LA, more than a year after complaining he barely leaves his beachfront mansion.\r\nThe 82-year-old Australian movie star was seen running errands in his nei… [+2093 chars]"
+  }, {
+    "source": {
+      "id": "abc-news-au",
+      "name": "ABC News (AU)"
+    },
+    "author": "Tracey Holmes",
+    "title": "Female footballers at Port Melbourne SC devastated, local council ends dream of FIFA World Cup legacy - ABC News",
+    "description": "Female footballers at Port Melbourne SC had been looking forward to an upgrade in facilities at the club as part of the 2023 Women's World Cup bid, only for City of Port Phillip council to withdraw the site.",
+    "url": "https://www.abc.net.au/news/2022-08-13/female-footballers-at-port-melbourne-sc-devastated-local-council/101330398",
+    "urlToImage": "https://live-production.wcms.abc-cdn.net.au/784e09ea853ffe45f9ea3d05a5c7cf83?impolicy=wcms_crop_resize&cropH=1688&cropW=3000&xPos=0&yPos=156&width=862&height=485",
+    "publishedAt": "2022-08-13T01:18:32Z",
+    "content": "AFL and Essendon club legend James Hird has thrown his support behind the female soccer players at Port Melbourne Soccer Club after their involvement in the 2023 Women's World Cup was ripped out from… [+7775 chars]"
+  }, {
+    "source": {
+      "id": "google-news",
+      "name": "Google News"
+    },
+    "author": null,
+    "title": "Stolen luxury car slams into art gallery - news.com.au",
+    "description": null,
+    "url": "https://news.google.com/__i/rss/rd/articles/CBMikgFodHRwczovL3d3dy5uZXdzLmNvbS5hdS9uYXRpb25hbC92aWN0b3JpYS9jcmltZS9hcnQtZ2FsbGVyeS1leHRlbnNpdmVseS1kYW1hZ2VkLWJ5LXRlZW5zLWluLXN0b2xlbi1jYXIvbmV3cy1zdG9yeS81YjJmMTM1YTQyM2FlNDMyZTlhZjQxNjg0NTU3OTc2ZNIBlgFodHRwczovL3d3dy5uZXdzLmNvbS5hdS9uYXRpb25hbC92aWN0b3JpYS9jcmltZS9hcnQtZ2FsbGVyeS1leHRlbnNpdmVseS1kYW1hZ2VkLWJ5LXRlZW5zLWluLXN0b2xlbi1jYXIvbmV3cy1zdG9yeS81YjJmMTM1YTQyM2FlNDMyZTlhZjQxNjg0NTU3OTc2ZD9hbXA?oc=5",
+    "urlToImage": null,
+    "publishedAt": "2022-08-13T00:34:40Z",
+    "content": null
+  }, {
+    "source": {
+      "id": "abc-news-au",
+      "name": "ABC News (AU)"
+    },
+    "author": "ABC News",
+    "title": "Melbourne socialite, fashion icon and philanthropist Lillian Frank dies aged 92 - ABC News",
+    "description": "The flamboyant hairdresser Lillian Frank is being remembered for her contribution to Melbourne's life and culture, after her death aged 92.",
+    "url": "https://www.abc.net.au/news/2022-08-13/lillian-frank-melbourne-hairdresser-fashion-philanthropist-dies/101330586",
+    "urlToImage": "https://live-production.wcms.abc-cdn.net.au/e5c0e34e8ff418524e76a7dfbb5d3abf?impolicy=wcms_crop_resize&cropH=396&cropW=704&xPos=0&yPos=400&width=862&height=485",
+    "publishedAt": "2022-08-13T00:03:03Z",
+    "content": "Melbourne socialite and philanthropist Lillian Frank is being remembered for her contribution to the city's life and culture, after her death aged 92.\r\nKey points:\r\n<ul><li>The Toorak hairdresser was… [+2510 chars]"
+  }, {
+    "source": {
+      "id": null,
+      "name": "9News"
+    },
+    "author": null,
+    "title": "Pictures of the week: Fiery show from world's largest street carnival - 9News",
+    "description": "The Jember Fashion Carnival follows a Brazilian style with an emphasis on traditional Indonesian motif.",
+    "url": "https://www.9news.com.au/world/pictures-of-the-week-uk-heat-ukraine-war-commonwealth-games-serena-williams/f15a593e-88b7-4c34-bc9b-c92aa789cd64",
+    "urlToImage": "https://imageresizer.static9.net.au/JxG4cZIYuShLLA94iE5zB0j45uk=/0x347:3333x2222/1200x628/smart/https%3A%2F%2Fprod.static9.net.au%2Ffs%2Fa2ce4146-15e5-4c58-a4c3-617e876b44c0",
+    "publishedAt": "2022-08-12T23:51:26Z",
+    "content": "The Götheborg of Sweden sailing ship passes under Tower Bridge on August 8 in London, England. \r\nThe vessel, which is a replica of a ship that sank near Gothenburg, Sweden, in 1745, last visited Lond… [+228 chars]"
+  }, {
+    "source": {
+      "id": "abc-news-au",
+      "name": "ABC News (AU)"
+    },
+    "author": "ABC News",
+    "title": "COVID-19 case numbers from around the states and territories - ABC News",
+    "description": "Here's a quick wrap of today's COVID statistics from each Australian jurisdiction.",
+    "url": "https://www.abc.net.au/news/2022-08-13/covid-19-case-numbers-from-around-the-states-and-territories/101330508",
+    "urlToImage": "https://live-production.wcms.abc-cdn.net.au/a1933cc41f1ea4ed45d4eb5c8d1d818c?impolicy=wcms_crop_resize&cropH=1770&cropW=3146&xPos=0&yPos=164&width=862&height=485",
+    "publishedAt": "2022-08-12T23:41:37Z",
+    "content": "Here's a quick wrap of each Australian jurisdiction's latest COVID-19 statistics today Saturday, August 13.\r\nYou can get a more detailed, visual breakdown through the ABC's Charting the Spread story … [+1676 chars]"
+  }, {
+    "source": {
+      "id": "abc-news-au",
+      "name": "ABC News (AU)"
+    },
+    "author": "ABC News",
+    "title": "Remains of small armoured dinosaur unearthed in Argentina in first-of-its-kind discovery - ABC News",
+    "description": "Palaeontologists announce the discovery of a previously unknown small armoured dinosaur in southern Argentina. The dinosaur, named Jakapil kaniukura, marks a first-of-its-kind discovery.",
+    "url": "https://www.abc.net.au/news/2022-08-13/small-armoured-dinosaur-southern-argentina-jakapil-kaniukura/101330516",
+    "urlToImage": "https://live-production.wcms.abc-cdn.net.au/34c7b04f69cd7a9f6aba585e0a0fc225?impolicy=wcms_crop_resize&cropH=1080&cropW=1920&xPos=0&yPos=28&width=862&height=485",
+    "publishedAt": "2022-08-12T23:39:30Z",
+    "content": "Palaeontologists have announced the discovery of a previously unknown small, armoured dinosaur in southern Argentina. \r\n<ul><li>Named jakapil kaniukura, the dinosaur weighed up to 7 kilograms\r\n</li><… [+1744 chars]"
+  }, {
+    "source": {
+      "id": null,
+      "name": "9News"
+    },
+    "author": "Emily McPherson",
+    "title": "'I call it the electric boogaloo': Lightning strike survivors share their stories of recovery - 9News",
+    "description": "<p>An ominous-looking storm was rolling in when Kristoffer Green and his family pulled up at an Ipswich medical centre in <a href=\"https://www.9news.com.au/queensland\" title=\"Queensland\" target=\"\" rel=\"\">Queensland</a>.</p>",
+    "url": "https://www.9news.com.au/national/australian-lightning-strike-survivors-share-their-stories-of-recovery/947492ac-05be-417f-bcea-eda2564a88b8",
+    "urlToImage": "https://imageresizer.static9.net.au/KtQN8T6aYBlBcfaiB4Q3kJDNz6k=/1200x628/smart/https%3A%2F%2Fprod.static9.net.au%2Ffs%2F92ba1e98-febd-4a82-9290-731ee79a03b9",
+    "publishedAt": "2022-08-12T23:33:08Z",
+    "content": "<li>Stay inside and shelter well clear of windows, doors and skylights\r\n</li><li>Don't use a landline telephone during a thunderstorm\r\n</li><li>Avoid touching brick or concrete, or standing barefoot … [+161 chars]"
+  }, {
+    "source": {
+      "id": "abc-news-au",
+      "name": "ABC News (AU)"
+    },
+    "author": "Joanna Robin, Rebecca Armitage",
+    "title": "Here's what the FBI were looking for and what they took from Donald Trump's Florida home, according to the search warrant and seizure log - ABC News",
+    "description": "A list of items seized from Donald Trump's Florida mansion includes 20 boxes of documents, photos and a handwritten note. Here's what it could mean for the former US president.",
+    "url": "https://www.abc.net.au/news/2022-08-13/key-takeaways-trump-fbi-search-warrant/101330412",
+    "urlToImage": "https://live-production.wcms.abc-cdn.net.au/dae27b471dddd65e82cf3ffcd79969d4?impolicy=wcms_crop_resize&cropH=450&cropW=800&xPos=0&yPos=27&width=862&height=485",
+    "publishedAt": "2022-08-12T23:22:51Z",
+    "content": "Materials marked \"top secret\", binders of photos, and information about the \"President of France\" all made the list of inventory seized from former US president Donald Trump's Florida estate by the F… [+6156 chars]"
+  }, {
+    "source": {
+      "id": null,
+      "name": "Sky News Australia"
+    },
+    "author": "Crystal Wu",
+    "title": "Ellen DeGeneres leads tributes to ex-girlfriend Anne Heche - Sky News Australia",
+    "description": "<p>US comedian and talk show host Ellen DeGeneres has led a chorus of tributes following the death of her former girlfriend Anne Heche.</p>",
+    "url": "https://www.skynews.com.au/lifestyle/celebrity-life/ellen-degeneres-leads-tributes-to-her-former-girlfriend-anne-heche-who-died-following-a-car-crash-at-the-age-of-53/news-story/58a7d174032b619c7cccd40fc0a41b00",
+    "urlToImage": "https://content.api.news/v3/images/bin/f94660437ecd7ef9ef9eb0bf6ed25aff",
+    "publishedAt": "2022-08-12T23:08:04Z",
+    "content": "US comedian and talk show host Ellen DeGeneres has led a chorus of tributes following the death of her former girlfriend Anne Heche.\r\nThe 53-year-old actress was declared brain dead on Friday (local … [+2511 chars]"
+  }, {
+    "source": {
+      "id": "abc-news-au",
+      "name": "ABC News (AU)"
+    },
+    "author": "Daniel Keane",
+    "title": "Tesla's big battery started with an Elon Musk Twitter exchange – but behind the scenes, it wasn't that simple - ABC News",
+    "description": "It's been five years since the construction of Elon Musk's giant battery in rural SA. But for then-premier Jay Weatherill, the tweets that triggered the Tesla project were a double-edged sword.",
+    "url": "https://www.abc.net.au/news/2022-08-13/tesla-big-battery-began-with-elon-musk-mike-cannon-brookes-bet/101301882",
+    "urlToImage": "https://live-production.wcms.abc-cdn.net.au/a5597fe90609a01097bb35fabf2d0e24?impolicy=wcms_crop_resize&cropH=394&cropW=700&xPos=0&yPos=57&width=862&height=485",
+    "publishedAt": "2022-08-12T22:39:11Z",
+    "content": "It began with a bet between billionaires.\r\nIn March 2017, Atlassian chief Mike Cannon-Brookes challenged Tesla boss Elon Musk to make good on a thought bubble about using batteries to solve South Aus… [+5454 chars]"
+  }, {
+    "source": {
+      "id": "abc-news-au",
+      "name": "ABC News (AU)"
+    },
+    "author": "Samantha Lewis",
+    "title": "Sam Kerr short-listed for Ballon d'Or in fourth consecutive nomination for Chelsea and Matildas star - ABC News",
+    "description": "Following another Golden Boot-winning season with Chelsea and becoming Australia's all-time leading goal scorer, the Matildas captain earns a fourth consecutive nomination.",
+    "url": "https://www.abc.net.au/news/2022-08-13/sam-kerr-nominated-for-ballon-dor/101330450",
+    "urlToImage": "https://live-production.wcms.abc-cdn.net.au/084cdb66015119d100c1c8bbab7a7df3?impolicy=wcms_crop_resize&cropH=2177&cropW=3870&xPos=0&yPos=202&width=862&height=485",
+    "publishedAt": "2022-08-12T20:54:23Z",
+    "content": "Sam Kerr's stellar year for club and country has been recognised by international football with a fourth consecutive nomination for the game's most prestigious award, the Ballon d'Or.\r\n<ul><li>Sam Ke… [+2859 chars]"
+  }, {
+    "source": {
+      "id": null,
+      "name": "Japan Today"
+    },
+    "author": null,
+    "title": "WHO plans to rename monkeypox over stigmatization concerns - Japan Today",
+    "description": "The World Health Organization says it's holding an open forum to rename the disease monkeypox, after some critics raised concerns the name could be derogatory or have racist connotations.  In a statement Friday, the U.N. health agency said it has also renamed…",
+    "url": "https://japantoday.com/category/world/who-plans-to-rename-monkeypox-over-stigmatization-concerns",
+    "urlToImage": null,
+    "publishedAt": "2022-08-12T20:30:00Z",
+    "content": "The World Health Organization says it's holding an open forum to rename the disease monkeypox, after some critics raised concerns the name could be derogatory or have racist connotations. \r\nIn a stat… [+2067 chars]"
+  }, {
+    "source": {
+      "id": null,
+      "name": "Gizmodo Australia"
+    },
+    "author": null,
+    "title": "Does Google Think Gen Z Is the Answer to Its Green Text Woes? - Gizmodo Australia",
+    "description": "This week, alongside a massive unveiling of brand new foldable devices and accessories from Samsung, Google put out its own...",
+    "url": "https://www.gizmodo.com.au/2022/08/does-google-think-gen-z-is-the-answer-to-its-green-text-woes/",
+    "urlToImage": "https://www.gizmodo.com.au/wp-content/uploads/sites/2/2022/08/13/0d268445d0829eb98aaf551486a6596e.jpg?quality=80&resize=1280,720",
+    "publishedAt": "2022-08-12T19:30:00Z",
+    "content": "This week, alongside a massive unveiling of brand new foldable devices and accessories from Samsung, Google put out its own ad campaign in an attempt to rally the troops against Apples tyrannical rei… [+4362 chars]"
+  }, {
+    "source": {
+      "id": "abc-news-au",
+      "name": "ABC News (AU)"
+    },
+    "author": "Brett Worthington",
+    "title": "Education ministers are in unison on fixing the teacher shortage crisis — but is that enough for a plan to materialise? - ABC News",
+    "description": "It wasn't all that long ago that parents across the country were getting a firsthand experience of what it's like to educate their children. Now everyone's back in the classroom, teacher shortages are biting and something's got to give, writes Brett Worthingt…",
+    "url": "https://www.abc.net.au/news/2022-08-13/education-ministers-jason-clare-teacher-shortage-conditions/101327776",
+    "urlToImage": "https://live-production.wcms.abc-cdn.net.au/d5d0dd367235cf8f466fa956168cfb37?impolicy=wcms_crop_resize&cropH=1715&cropW=3048&xPos=0&yPos=0&width=862&height=485",
+    "publishedAt": "2022-08-12T19:07:06Z",
+    "content": "It's pretty hard to find anyone who seems to be loving their job at the moment. \r\nA pandemic in its third year, a community desperate to move on and a virus that has no regard for the state of the wo… [+4415 chars]"
+  }, {
+    "source": {
+      "id": null,
+      "name": "The Guardian"
+    },
+    "author": "Jordyn Beazley",
+    "title": "What happened in the Russia-Ukraine war this week? Catch up with the must-read news and analysis - The Guardian",
+    "description": "Fears over escalating crisis at Zaporizhzhia nuclear plant; Russian airbase deep behind frontline in Crimea damaged; anger over Amnesty report",
+    "url": "https://amp.theguardian.com/world/2022/aug/12/what-happened-in-the-russia-ukraine-war-this-week-catch-up-with-the-must-read-news-and-analysis",
+    "urlToImage": "https://i.guim.co.uk/img/media/88d39540d6e96a1704537a79e276c07aeb4052fe/1002_586_8381_5029/master/8381.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=15bc38bb4e6e1457f8352ad75c3fd748",
+    "publishedAt": "2022-08-12T19:01:00Z",
+    "content": "Every week we wrap up the must-reads from our coverage of the Ukraine war, from news and features to analysis, visual guides and opinion.\r\nGrave crisis at Ukraine nuclear plant, says UN\r\nThis week Is… [+6895 chars]"
+  }, {
+    "source": {
+      "id": null,
+      "name": "The Sydney Morning Herald"
+    },
+    "author": "Alexandra Smith",
+    "title": "At NSW Parliament, the century-old Bear Pit nickname remains, and so does a toxic culture - Sydney Morning Herald",
+    "description": "It was more than a century ago that the then all-male NSW parliament first became known as the Bear Pit, so aggressive and unruly was the behaviour of MPs on the floor.",
+    "url": "https://www.smh.com.au/politics/nsw/at-nsw-parliament-the-century-old-bear-pit-nickname-remains-and-so-does-a-toxic-culture-20220812-p5b9hp.html",
+    "urlToImage": "https://static.ffx.io/images/$zoom_0.19019396551724135%2C$multiply_0.7554%2C$ratio_1.776846%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/q_86%2Cf_auto/t_smh_opinion_no_age_social_wm/5ff8f051e0ff30d141f5de6b10fa9a5f49fa2e4e",
+    "publishedAt": "2022-08-12T19:00:00Z",
+    "content": "It was more than a century ago that the then all-male NSW parliament first became known as the Bear Pit. So aggressive and unruly was the behaviour of MPs on the floor of parliament in the early 1900… [+1996 chars]"
+  }]
+}

@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">NewsCorpSampleApp</string>
+
+    <string name="config_name">NewsCorpAppConfig</string>
+
+    <string name="title_news_list">News List</string>
+    <string name="title_news_sources">News Sources</string>
+    <string name="title_news_saved">Saved</string>
+
+    <string name="error_message">Something went wrong. Pull from top to refresh again.</string>
+
+    <string name="mock_mode">Mock mode</string>
+
+    <string name="title_headlines">Home</string>
+    <string name="title_sources">Sources</string>
+    <string name="title_saved">Saved</string>
+    <string name="title_news_detail">News Details</string>
+    <string name="save_article">Save</string>
+
+    <string name="cd_headlines">News Headlines</string>
+    <string name="cd_sources">News Sources</string>
+    <string name="cd_saved">Saved News</string>
+    <string name="cd_more_options">More Options</string>
+    <string name="cd_save_article">Save article</string>
+
+</resources>

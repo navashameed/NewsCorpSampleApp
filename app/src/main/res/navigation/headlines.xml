@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/headlines"
+    app:startDestination="@+id/headlines_list">
+
+    <fragment
+        android:id="@+id/headlines_list"
+        android:name="com.newscorp.sampleapp.ui.headlines.NewsHeadLinesFragment"
+        android:label="@string/title_headlines"
+        tools:layout="@layout/fragment_headlines">
+        <action
+            android:id="@+id/action_headlines_to_details"
+            app:destination="@id/newsHeadLineDetails" />
+    </fragment>
+    <fragment
+        android:id="@+id/newsHeadLineDetails"
+        android:name="com.newscorp.sampleapp.ui.newsdetail.NewsDetailsFragment"
+        android:label="@string/title_news_detail"
+        tools:layout="@layout/fragment_news_details">
+        <argument
+            android:name="article"
+            app:argType="com.newscorp.sampleapp.repository.model.Article" />
+    </fragment>
+</navigation>

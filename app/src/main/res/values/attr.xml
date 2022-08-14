@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="textAppearanceTitle1" format="reference" />
+    <attr name="textAppearanceTitle1Bold" format="reference" />
+    <attr name="textAppearanceDescription" format="reference" />
+    <attr name="textAppearanceSubTitle1" format="reference" />
+    <attr name="textAppearanceSubTitle1Bold" format="reference" />
+
+    <attr format="color" name="colorIcon"/>
+</resources>

@@ -1,0 +1,30 @@
+// Top-level build file where you can add configuration options common to all sub-projects/modules.
+
+buildscript {
+
+    ext.versions = [
+            'DAGGER_VERSION'                     : '2.25.4',
+            'KOTLIN_VERSION'                     : '1.4.30',
+            'NAVIGATION_VERSION'                 : '2.5.1',
+            'HILT_DAGGER_VERSION'                : '2.38.1',
+
+            'KOTLINX_COROUTINES'                 : '1.6.4',
+            'SWIPE_TO_REFRESH'                   : '1.1.0'
+    ]
+    dependencies {
+        // Add our classpath
+        classpath "com.google.dagger:hilt-android-gradle-plugin:${versions.HILT_DAGGER_VERSION}"
+        classpath "org.jetbrains.kotlin:kotlin-gradle-plugin:${versions.KOTLIN_VERSION}"
+        classpath "androidx.navigation:navigation-safe-args-gradle-plugin:${versions.NAVIGATION_VERSION}"
+    }
+}
+
+plugins {
+    id 'com.android.application' version '7.1.3' apply false
+    id 'com.android.library' version '7.1.3' apply false
+    id 'org.jetbrains.kotlin.android' version '1.6.21' apply false
+}
+
+task clean(type: Delete) {
+    delete rootProject.buildDir
+}

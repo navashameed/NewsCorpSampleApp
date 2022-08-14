@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/sources"
+    app:startDestination="@id/sources_list">
+
+    <fragment
+        android:id="@+id/sources_list"
+        android:name="com.newscorp.sampleapp.ui.sources.NewsSourcesFragment"
+        android:label="@string/title_sources"
+        tools:layout="@layout/fragment_sources" />
+</navigation>
